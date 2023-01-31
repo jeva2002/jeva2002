@@ -5,4 +5,4 @@
 👯 I’m looking to collaborate on web applications.
 📫 Can you talk to me in my profile of linkedIn: https://www.linkedin.com/in/esteban-villegas-arias-developer/ 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeva2002)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeva2002&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
