@@ -9,13 +9,9 @@ I'm Esteban, a web developer with knowledges about HTML, CSS (with some framewor
 👯 I’m looking to collaborate on web applications or projects where I can learn more about this beautiful world.  
 📫 Can you talk to me in my profile of linkedIn:   https://www.linkedin.com/in/esteban-villegas-arias-developer/ 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeva2002&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs]()](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeva2002&theme=synthwave" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats" style="margin-left:3vw;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeva2002&theme=synthwave" />
 </a>
