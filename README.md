@@ -1,6 +1,6 @@
 <h1 align="center">  Hi there 👋 </h1>
 
-## About me
+<h2> About me </h2>
 <br/>
 
 <p width="500"> I'm Esteban, a web developer with knowledges about HTML, CSS (with some frameworks), JS/TS, React, Redux, Node, Express, and some databases. <p>
@@ -21,6 +21,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeva2002&theme=synthwave" />
 </a>
+
+<br/>
+<br/>
+
+<h2> My technologies </h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
