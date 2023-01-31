@@ -1,8 +1,15 @@
-# Hi there 👋
+<style>
+  h1 {
+    color: #783F8E;
+  }
+
+</style>
+
+<h1 align="center">  Hi there 👋 </h1>
 
 ## About me
 
-I'm Esteban, a web developer with knowledges about HTML, CSS (with some frameworks), JS/TS, React, Redux, Node, Express, and some databases. 
+<p> I'm Esteban, a web developer with knowledges about HTML, CSS (with some frameworks), JS/TS, React, Redux, Node, Express, and some databases. <p>
 
 
 ⚡ I’m currently learning **Angular** and I'd like to go into the **backend**. I'm open to new technologies and languages. <br/>
