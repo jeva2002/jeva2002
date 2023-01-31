@@ -1,11 +1,4 @@
-<style>
-  h1 {
-    color: #783F8E;
-  }
-
-</style>
-
-<h1 align="center">  Hi there 👋 </h1>
+<h1 align="center" style="color:#783F8E;">  Hi there 👋 </h1>
 
 ## About me
 
