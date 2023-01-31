@@ -12,6 +12,6 @@ I'm Esteban, a web developer with knowledges about HTML, CSS (with some framewor
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeva2002&theme=synthwave" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats" style="margin-left:3vw;">
+<a href="https://github.com/anuraghazra/github-readme-stats" style="margin-left:100px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeva2002&theme=synthwave" />
 </a>
