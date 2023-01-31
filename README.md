@@ -3,7 +3,7 @@
 ## About me
 <br/>
 
-<p> I'm Esteban, a web developer with knowledges about HTML, CSS (with some frameworks), JS/TS, React, Redux, Node, Express, and some databases. <p>
+<p width="500"> I'm Esteban, a web developer with knowledges about HTML, CSS (with some frameworks), JS/TS, React, Redux, Node, Express, and some databases. <p>
   <br/>
 
 <div style="margin-bottom: 50px;">
