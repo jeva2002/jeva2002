@@ -1,6 +1,7 @@
-<h1 align="center" style="color:#783F8E;">  Hi there 👋 </h1>
+<h1 align="center" style="color:#4F1271;">  Hi there 👋 </h1>
 
 ## About me
+<br/>
 
 <p> I'm Esteban, a web developer with knowledges about HTML, CSS (with some frameworks), JS/TS, React, Redux, Node, Express, and some databases. <p>
 
