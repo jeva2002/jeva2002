@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-<p> I'm Esteban, a young and passionate web developer, who loves research and learn about his interests. I like to collaborate with others, get good results in my works and  <p>
+<p> I'm Esteban, a young and passionate web developer, who loves research and learn about his interests. I like to collaborate with others and get good results in my works. <p>
   <br/>
 
 <div style="margin-bottom: 50px;">
