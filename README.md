@@ -3,12 +3,12 @@
 <h2> About me </h2>
 <br/>
 
-<p width="500"> I'm Esteban, a web developer with knowledges about HTML, CSS (with some frameworks), JS/TS, React, Redux, Node, Express, and some databases. <p>
+<p> I'm Esteban, a young and passionate web developer, who loves research and learn about his interests. I like to collaborate with others, get good results in my works and  <p>
   <br/>
 
 <div style="margin-bottom: 50px;">
 ⚡ I’m currently learning <b>Angular</b> and I'd like to go into the <b>backend</b>. I'm open to new technologies and languages. <br/>
-👯 I’m looking to collaborate on web applications or projects where I can learn more about this beautiful world. <br/>
+👯 I’m looking to collaborate on web applications or projects where I can learn more about this beautiful world of programming. <br/>
 📫 Can you talk to me in my profile of linkedIn:   https://www.linkedin.com/in/esteban-villegas-arias-developer/ <br/>
 </div>
 
