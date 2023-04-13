@@ -7,7 +7,7 @@
   <br/>
 
 <ul>
-  <li>⚡ I’m currently learning <b>Angular</b> and I'd like to go into the <b>backend</b>. I'm open to new technologies and languages.</li> 
+  <li>⚡ I'm open to new technologies and languages.</li> 
   <li>👯 I’m looking to collaborate on web applications or projects where I can learn more about this beautiful world of programming.</li>
   <li>📫 Can you talk to me in my profile of linkedIn:   https://www.linkedin.com/in/esteban-villegas-arias-developer/ </li>
 </ul>
@@ -35,6 +35,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-ff69b4.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88.svg?style=for-the-badge&logo=Redux&logoColor=white)
 ![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
